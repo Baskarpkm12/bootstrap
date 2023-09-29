@@ -59,7 +59,7 @@ h3 {
 }
 
 .one {
-    background-image: url(/css/images/linklogo.png);
+    background-image: url(./images/linklogo.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -76,7 +76,7 @@ h3 {
 
 .container8 {
     height: 100vh;
-    background: url(/css/images/night.jpg);
+    background: url(./images/night.jpg);
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
