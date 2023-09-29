@@ -118,7 +118,7 @@ h3 {
         height: max-content;
     }
     .container5 img {
-        width: 80%;
+        width: 200px;
         height: 200px;
     }
     .pc {
@@ -134,7 +134,7 @@ h3 {
         display: block;
     }
     .container8 form {
-        width: 100%;
+        width: 80%;
     }
     .top {
         bottom: 50px;
