@@ -111,15 +111,15 @@ h3 {
         height: 50vh;
     }
     .nice {
-        padding-top: 50px;
+        padding-top: 100px;
     }
     .container7 .row {
         row-gap: 50px;
         height: max-content;
     }
     .container5 img {
-        width: 200px;
-        height: 200px;
+        width: 150px;
+        height: 150px;
     }
     .pc {
         display: none;
